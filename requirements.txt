@@ -1,0 +1,8 @@
+advanced-ta
+ta 
+yfinance 
+alpaca-trade-api 
+lumibot==3.1.0
+timedelta
+yfinance
+
